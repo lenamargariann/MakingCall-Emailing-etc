@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Making Calls, Emailing etc</string>
+    <string name="last_name">Last name</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="sign_in">Sign In</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_message">Your Message!</string>
+    <string name="call">Call</string>
+    <string name="phone_Number">Phone Number</string>
+    <string name="EMail">Email</string>
+    <string name="open_the_camera">Open the camera !</string>
+    <string name="make_call">Make Call</string>
+    <string name="send">SEND</string>
+</resources>
